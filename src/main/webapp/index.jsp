@@ -2,9 +2,9 @@
 <body>
 <h1><font color='red'> Welcome to Devops <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Hello world</a>
+<a href="https://google.com">Hello world</a>
   
-  <h2> Jenkins </h2>
+  <h2> Jenkins + Maven + Git + Tomcat Deployment Done </h2>
 
 </body>
 </html>
